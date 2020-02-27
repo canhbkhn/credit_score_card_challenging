@@ -18,7 +18,6 @@ class DataProc:
         else:
             print("--> categorical imputation")
 
-
     # handling outliers
     def handling_outliers(self):
         pass
